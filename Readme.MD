@@ -32,7 +32,7 @@ dotnet run -c Release --project .\MySqlTest.Benchmark\MySqlTest.Benchmark.csproj
 
 [Selections with BTREE](./results/MySqlTest.Benchmark.DateOfBirthBtreeIndexBenchmark-report-github.md)
 
-[Selections with HASH (BTREE index was created, so the results are the same)](./results/MySqlTest.Benchmark.DateOfBirthBtreeIndexBenchmark-report-github.md)
+[Selections with HASH (BTREE index was created, so the results are the same)](./results/MySqlTest.Benchmark.DateOfBirthHashIndexBenchmark-report-github.md)
 
 [Insertions with innodb_flush_log_at_trx_commit = 0](./results/Insert0/MySqlTest.BenchmarkInsert.InsertBenchmark-report-github.md)
 
