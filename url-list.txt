@@ -1,0 +1,1 @@
+http://app/User POST {  "username": "string",  "email": "string@gmail.com",  "firstName": "John",  "lastName": "Doe",  "dateOfBirth": "2002-08-04"}
